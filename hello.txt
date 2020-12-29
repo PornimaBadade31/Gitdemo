@@ -1,3 +1,5 @@
 hello Pornima
 defect fixed
 change for bug1
+
+checkout for three way 
